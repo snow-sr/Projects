@@ -1,0 +1,3 @@
+[submodule "JS/api"]
+	path = JS/api
+	url = https://github.com/snow-sr/toDo-many-languages
