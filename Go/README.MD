@@ -5,4 +5,4 @@ It's easy to understand rapidly, somethings are extremely diferent from my defau
 
 ## Readbility: 3/5
 
-Easy to read, just need to pay some attention, I really think the folder structure is a mess;
+Easy to read, just need to pay some attention, I really think the folder structure is have its charm!
